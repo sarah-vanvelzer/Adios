@@ -8,9 +8,6 @@ The goal is simple: acknowledge the moment, take something supportive from it, &
 Each entry becomes a point on the map, a quiet archive of moments that were eaten, lived, & left behind.
 
 ## Screenshots
-![Home Screen](Adios/home.png)
-![Benefits Screen](Adios/benefits.png)
-![Map Screen](Adios/map.png)
 <p align="center">
   <img src="Adios/home.png" width="250">
   <img src="Adios/benefits.png" width="250">
