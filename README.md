@@ -1,5 +1,5 @@
 # Adios
-A SwiftUI app designed to bring closure to food moments through benefit reframing and a visual map.
+A SwiftUI app that supports eating disorder recovery by reframing food moments through generated benefits & a visual map.
 
 ## About
 Adios is an iOS app designed to help people in eating disorder recovery close the loop on food moment.
