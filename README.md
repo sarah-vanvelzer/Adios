@@ -10,6 +10,7 @@ Each entry becomes a point on the map, a quiet archive of moments that were eate
 ## Screenshots
 ![Home Screen](Adios/home.png)
 ![Benefits Screen](Adios/benefits.png)
+![Map Screen](Adios/map.png)
 
 ## Features
 - Benefit-based reframing after eating
