@@ -2,9 +2,11 @@
 A SwiftUI app designed to bring closure to food moments through benefit reframing and a visual map.
 
 ## Screenshots
-![Home Screen](screenshots/Home Screen.png)
-![Benefits Screen](screenshots/Benefits Screen.png)
-![Map Screen](screenshots/Map Screen.png)
+<p align="center">
+  <img src="Adios/home.png" width="250"/>
+  <img src="Adios/benefits.png" width="250"/>
+  <img src="Adios/map.png" width="250"/>
+</p>
 
 ## About
 Adios is an iOS app designed to help people in eating disorder recovery close the loop on food moment.
@@ -19,9 +21,9 @@ Each entry becomes a point on the map, a quiet archive of moments that were eate
 - Tap entries to revists benefits attached to specific moments
 
 ## Built With
-SwiftUI
-SwiftData
-XCode
+- SwiftUI
+- SwiftData
+- XCode
 
 ## Context
 Adios was created for the Apple Swift Student Challenge & explores how technology can support people navigating their relationship with food without turning eating into numbers or performance.
