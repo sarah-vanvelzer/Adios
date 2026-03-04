@@ -8,11 +8,7 @@ The goal is simple: acknowledge the moment, take something supportive from it, &
 Each entry becomes a point on the map, a quiet archive of moments that were eaten, lived, & left behind.
 
 ## Screenshots
-<p align="center">
-  <img src="Adios/home.png" width="250">
-  <img src="Adios/benefits.png" width="250">
-  <img src="Adios/map.png" width="250">
-</p>
+![Home Screen](Adios/home.png)
 
 ## Features
 - Benefit-based reframing after eating
