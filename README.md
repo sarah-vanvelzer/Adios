@@ -18,7 +18,7 @@ Each entry becomes a point on the map, a quiet archive of moments that were eate
 - Benefit-based reframing after eating
 - No calorie or nutrition tracking
 - Visual map where food moments are placed & released
-- Tap entries to revists benefits attached to specific moments
+- Tap entries to revist benefits attached to specific moments
 
 ## Built With
 - SwiftUI
