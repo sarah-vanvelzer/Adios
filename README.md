@@ -27,4 +27,3 @@ Each entry becomes a point on the map, a quiet archive of moments that were eate
 
 ## Context
 Adios was created for the Apple Swift Student Challenge & explores how technology can support people navigating their relationship with food without turning eating into numbers or performance.
-It was guided by my own personal experience with an eating disorder.
